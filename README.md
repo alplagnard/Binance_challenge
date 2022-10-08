@@ -30,4 +30,4 @@ The search value of hashmap is O(1) where it is equal to O(n) for an array.
 ## Annex
 
 There may be a way to find the number of accessible coordinates by Alice with a mathematical function. 
-The file [column](./file/column.json) show the number of accessible coordinates in each columns. We can see that there is a linearity in the numbers of accessible coordinates while comparing columns.
+The file [column](./file/column.json) shows the number of accessible coordinates in each columns. We can see that there is a linearity in the numbers of accessible coordinates while comparing columns.
