@@ -1,0 +1,16 @@
+{
+  "name": "binance",
+  "version": "1.0.0",
+  "description": "Binance Challenge",
+  "main": "index.js",
+  "scripts": {
+    "challenge": "node ./src/challenge",
+    "debug": "export DEBUG=true && node ./src/challenge"
+  },
+  "author": "Alexandre Plagnard",
+  "license": "ISC",
+  "dependencies": {
+    "mz": "^2.7.0",
+    "path": "^0.12.7"
+  }
+}
